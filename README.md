@@ -46,7 +46,7 @@ Imagens e assets organizados em pastas
 
 Clone o repositório:
 
-git clone https://github.com/geovana-cazali/bluepeak-agency
+git clone https://github.com/sgeo21/bluepeak-agency
 
 
 Acesse a pasta:
