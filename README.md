@@ -51,7 +51,7 @@ git clone https://github.com/sgeo21/bluepeak-agency
 
 Acesse a pasta:
 
-cd bluepeak-agency
+cd BluePeak
 
 Abra o arquivo index.html diretamente no navegador.
 Não é necessário instalar nada — o W3CSS funciona via CDN.
