@@ -72,7 +72,7 @@ Toda a parte visual é construída com classes do W3CSS, tornando o layout leve 
 
 ---
 
-##👩🏽‍💻 **Autora**
+## 👩🏽‍💻 **Autora**
 
 Geovana Cazali
 
